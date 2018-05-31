@@ -1,3 +1,6 @@
+<p>In this environment my home directory location is&nbsp;<strong>/home/cloudera</strong>. Below codes have to be entered into the terminal.</p>
+<p><strong>Note*:</strong> Home directory will not be same for everyone.&nbsp;</p>
+<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -5,7 +8,7 @@
 <p>echo hello world</p>
 </td>
 <td width="312">
-<p>Print &ldquo;hello world&rdquo; to the standard output.</p>
+<p>Print &ldquo;<strong>hello world</strong>&rdquo; to the standard output.</p>
 </td>
 </tr>
 <tr>
@@ -13,7 +16,7 @@
 <p>pwd</p>
 </td>
 <td width="312">
-<p>Print the working directory.&nbsp; We&rsquo;re in &ldquo;~&rdquo; which we know is the user&rsquo;s home directory, but this will give you the full address: /home/cloudera</p>
+<p>Print the working directory.&nbsp; We&rsquo;re in &ldquo;<strong>~</strong>&rdquo; which we know is the user&rsquo;s home directory, but this will give you the full address: <strong>/home/cloudera</strong></p>
 </td>
 </tr>
 <tr>
@@ -61,7 +64,7 @@
 <p>cd /</p>
 </td>
 <td width="312">
-<p>Change directory to &ldquo;/&rdquo;.</p>
+<p>Change directory to &ldquo;<strong>/</strong>&rdquo;.</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +81,7 @@
 <p>mkdir testdir</p>
 </td>
 <td width="312">
-<p>Make a directory called &ldquo;testdir&rdquo; within the current working directory.</p>
+<p>Make a directory called &ldquo;<strong>testdir</strong>&rdquo; within the current working directory.</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +89,7 @@
 <p>cd /home/cloudera/testdir</p>
 </td>
 <td width="312">
-<p>Move into testdir by providing the <em>absolute</em> location of it.&nbsp; You could also have just used &ldquo;cd testdir&rdquo;.</p>
+<p>Move into testdir by providing the <em>absolute</em> location of it.&nbsp; You could also have just used &ldquo;<strong>cd testdir</strong>&rdquo;.</p>
 </td>
 </tr>
 <tr>
