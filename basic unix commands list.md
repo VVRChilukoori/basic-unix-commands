@@ -1,5 +1,5 @@
 <p>In this environment my home directory location is&nbsp;<strong>/home/cloudera</strong>. Below codes have to be entered into the terminal.</p>
-<p><strong>Note*:</strong> Home directory location may vary for you.&nbsp;</p>
+<p><strong>Note*:</strong> Home directory location can be different.&nbsp;</p>
 <p>&nbsp;</p>
 <table>
 <tbody>
