@@ -100,5 +100,13 @@
 <p>Move back to the home directory.</p>
 </td>
 </tr>
+<tr>
+<td width="312">
+<p>vi filename.txt</p>
+</td>
+<td width="312">
+<p>Create a new <strong>.txt</strong> file&nbsp; with name as <strong>filename</strong>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
